@@ -1,0 +1,21 @@
+Dog-A domesticated carnivorous mammal.
+Cat-A small domesticated carnivorous mammal.
+Run-Move at a speed faster than walking.
+Eat-Put food into the mouth and chew and swallow it.
+Sleep-A condition of body and mind that typically recurs for several hours every night, in which the nervous system is relatively inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended.
+Happy-Feeling or showing pleasure or contentment.
+Sad-Feeling or showing sorrow; unhappy.
+Big-Of considerable size, extent, or intensity.
+Small-Of a size that is less than normal or usual.
+Hot-Having a high degree of heat or a high temperature.
+Cold-Of or at a low or relatively low temperature.
+Good-To be desired or approved of.
+Bad-Of poor quality or a low standard.
+Day-The time between sunrise and sunset.
+Night-The period of darkness in each twenty-four hours; the time from sunset to sunrise.
+Sun-The star around which the Earth orbits.
+Moon-A natural satellite that orbits a planet.
+Water-A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.
+Food-Any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.
+Love-An intense feeling of deep affection.
+ 
